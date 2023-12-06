@@ -2,6 +2,8 @@
 I am collecting interview questions on Frontend development.
 
 Q1: what is HTML?
+
+Ans: HTML is expanded as Hyper Text Markup Language.
 Q2: What are HTML Tags?
 Q3: what is the difference between HTML tags and Html elements ?
 Q4: How can you describe about the use of HTML, CSS and JavaScript while creating a responsive webpage?
