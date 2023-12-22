@@ -9,7 +9,7 @@ Q2: What are HTML Tags?
 
 Ans: HTML tags are used to define the structure and content of a web page. They are enclosed within angle brackets(<>) and consist of tag name followed by any attributes and their values.HTML Tags help web browsers convert HTML documents into webpages.
 
-Q3: what is the difference between HTML tags and Html elements ?
+Q3: what is the difference between HTML tags and Html elements?
 
 Ans: In HTML, the terms HTML tags and HTML elements are often used interchangeably, but they refer to slightly different concenpts. 
 
