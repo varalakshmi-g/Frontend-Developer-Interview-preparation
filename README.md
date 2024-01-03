@@ -18,8 +18,6 @@ A tag is a specific instruction in HTML denoted by the use of angle brackets, wh
 
 Q4: How can you describe about the use of HTML, CSS and JavaScript while creating a responsive webpage?
 
-Ans: 
-
 Q5: what are meter tag and progress tags?
 
 Q6: To create a responsive webpage which database we can add?
