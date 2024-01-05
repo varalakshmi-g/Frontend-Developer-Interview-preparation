@@ -18,9 +18,13 @@ A tag is a specific instruction in HTML denoted by the use of angle brackets, wh
 
 Q4: How can you describe about the use of HTML, CSS and JavaScript while creating a responsive webpage?
 
+Ans: An HTML file contains the structure of the page itself. It is kind of like the structure of the building. A CSS file contains the styling of the page. It allows you to change colors, positioning and more. It is kind of like the design of the building itself. A JavaScript file determines the dynamic and interactive elements on the page.
+
 Q5: what are meter tag and progress tags?
 
-Q6: To create a responsive webpage which database we can add?
+Ans: <meter> tag defines a scalar measurement within a known range, or a fractional value. This is also known as a gauge.
+Examples: Disk usage, the relevance of a query result, etc.
 
 Q7: what is style sheet?
 
+Ans: A style sheet is a collection of rules that define the presentation of a document written in HTML or XML. It specifies how the document should be displayed on the screen, on paper, or in other media. Cascading Style Sheets (CSS) is a widely used style sheet language that allows you to separate the presentation of a document from its content. With CSS, you can control the layout of multiple web pages all at once. CSS can control the color, font, size, position, background, and more of HTML elements.
