@@ -22,8 +22,8 @@ Ans: An HTML file contains the structure of the page itself. It is kind of like 
 
 Q5: what are meter tag and progress tags?
 
-Ans:  The <meter> tag defines a scalar measurement within a known range, or a fractional value. This is also known as a gauge.
-The HTML <progress> tag is used to display the progress of a task, such as file upload, download, or installation. It is a part of HTML5 and is used to create a progress bar that shows the progress of a task. The tag has two attributes: value and max
+Ans:  The meter tag defines a scalar measurement within a known range, or a fractional value. This is also known as a gauge.
+The HTML progress tag is used to display the progress of a task, such as file upload, download, or installation. It is a part of HTML5 and is used to create a progress bar that shows the progress of a task. The tag has two attributes: value and max.
 
 Q7: what is style sheet?
 
