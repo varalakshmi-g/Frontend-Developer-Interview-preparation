@@ -1,5 +1,5 @@
 # Frontend-Developer-Interview-preparation
-I am collecting interview questions on Frontend development.
+I have collected interview questions which are helpful to become frontend developer as a fresher.
 
 Q1: what is HTML?
 
