@@ -22,8 +22,7 @@ Ans: An HTML file contains the structure of the page itself. It is kind of like 
 
 Q5: what are meter tag and progress tags?
 
-Ans: The <meter> tag defines a scalar measurement within a known range, or a fractional value. This is also known as a gauge. 
-Examples: Disk usage, the relevance of a query result, etc.
+Ans: The <meter> tag defines a scalar measurement within a known range, or a fractional value. This is also known as a gauge. Examples: Disk usage, the relevance of a query result, etc.
 
 Q7: what is style sheet?
 
