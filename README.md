@@ -29,4 +29,5 @@ Q7: what is style sheet?
 
 Ans: A style sheet is a collection of rules that define the presentation of a document written in HTML or XML. It specifies how the document should be displayed on the screen, on paper, or in other media. Cascading Style Sheets (CSS) is a widely used style sheet language that allows you to separate the presentation of a document from its content. With CSS, you can control the layout of multiple web pages all at once. CSS can control the color, font, size, position, background, and more of HTML elements.
 
+Q8: 
 
