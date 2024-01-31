@@ -33,3 +33,7 @@ Q8: What are the essential skills for a front end developer?
 
 Ans: There are many skills that can help developers perform their job efficiently. As per my experience, it is crucial for front end developers to understand HTML, CSS, JavaScript, HTTP/URL, DOM, CMS and have a functional knowledge of web browsers. Apart from these basic technical and foundational skills, I think grasping soft-core skills, especially interpersonal skills, is crucial to this job role. It can also help if front end developers are excellent communicators which can help them convey their ideas clearly to the clients and prepare reports. 
 
+Q9: Where do you see yourself in the company after your first year?
+
+Ans: After my first year, I look forward to working with an expanded skill set and growing my professional relationships with my colleagues. Learning is never over, so I hope to continue to learn about newer technologies and guide my team so that we can all grow together. I want to be able to constantly give inputs and contribute to the growth of an exceptional company like this while managing my self-development.
+
