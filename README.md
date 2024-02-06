@@ -37,3 +37,6 @@ Q9: Where do you see yourself in the company after your first year?
 
 Ans: After my first year, I look forward to working with an expanded skill set and growing my professional relationships with my colleagues. Learning is never over, so I hope to continue to learn about newer technologies and guide my team so that we can all grow together. I want to be able to constantly give inputs and contribute to the growth of an exceptional company like this while managing my self-development.
 
+Q10: Where do you want to see you in next 1 year?
+
+Ans: 
